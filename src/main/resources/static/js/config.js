@@ -1,0 +1,6 @@
+window.APP_CONFIG = {
+  API_BASE_URL: "",
+  AUTO_REFRESH_MS: 30000,
+  CURRENCY: "INR",
+  LOCALE: "en-IN"
+};
